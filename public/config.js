@@ -17,8 +17,8 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Powered Perp DEX for Fags",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Rewards",
+  "VITE_CUSTOM_MENUS": "Join our community, https://x.com/faggotliquidity",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
@@ -32,7 +32,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "",
   "VITE_AVAILABLE_LANGUAGES": "",
-  "VITE_USE_CUSTOM_PNL_POSTERS": "false",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
+  "VITE_USE_CUSTOM_PNL_POSTERS": "true",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
